@@ -1,4 +1,9 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+---
+title: "No More Manual Logins!"
+---
+
+<link rel="stylesheet" href="style.css">
+
 
 ## Project Workflow: Step-by-Step Demonstration of WiFi Auto Login Project
 
