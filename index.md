@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 ## Project Workflow: Step-by-Step Demonstration of WiFi Auto Login Project
 
 This section provides a detailed walkthrough of how the WiFi Auto Login script functions, from inspecting the login process to executing the script and storing login attempts in SQLite. Each step is supported by screenshots to help visualize the process.
