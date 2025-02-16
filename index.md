@@ -7,9 +7,9 @@ title: "No More Manual Logins!"
   <h1>No More Manual Logins!</h1>
 </div>
 
-## Step-by-Step Demonstration of WiFi Auto Login Project
+## Step-by-Step Demonstration of WiFi-Auto-Auth Project
 
-This section provides a detailed walkthrough of how the WiFi Auto Login script functions, from inspecting the login process to executing the script and storing login attempts in SQLite. Each step is supported by screenshots to help visualize the process.
+This section provides a detailed walkthrough of how the Auto Login script functions, from inspecting the login process to executing the script and storing login attempts in SQLite. Each step is supported by screenshots to help visualize the process.
 
 The demonstration covers:
 - Identifying the correct POST URL and payload parameters using browser dev tools.
