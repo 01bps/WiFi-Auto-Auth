@@ -1,0 +1,14 @@
+body {
+    background-color: #121212; /* Matte Black */
+    color: #E0E0E0; /* Light Grey for Text */
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #ffffff; /* White Headings */
+}
+
+img {
+    border-radius: 10px; /* smooth edges for images*/
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1); 
+}
