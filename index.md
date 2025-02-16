@@ -14,8 +14,10 @@ The demonstration covers:
 - Setting up the Python script in a chosen directory.
 - Running the script to automate login.
 - Storing login attempts securely in an SQLite database, including response details.
+  
 ---
-## Project Screenshots
+<p style="text-align: center;">## Project Screenshots</p>
+
 
 ### 🔹 1. Inspecting the Login Page
 Opening the login page and using "Inspect Element" to analyze the request flow.
