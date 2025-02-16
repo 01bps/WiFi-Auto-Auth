@@ -16,14 +16,7 @@ Say goodbye to typing passwords repeatedly and hello to smart, automated Wi-Fi a
 -  Automatic error handling and retries
 -  Detailed status tracking and logging
 
-## **Requirements**  
-
-Before running the script, ensure you have:  
-✔ Python 3 installed  
-✔ Required libraries  
-✔ WiFi network login page details  
-
-### For step-by-step setup instructions, please refer to [setup.md](https://github.com/01bps/RGIPT_Auto_Connect/blob/main/setup.md).
+### **For step-by-step setup instructions, please refer to [setup.md](https://github.com/01bps/RGIPT_Auto_Connect/blob/main/setup.md)**
 
 ## **Security Notes**
 - Credentials are securely stored in an SQLite database within your home directory.
