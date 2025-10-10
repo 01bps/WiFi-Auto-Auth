@@ -1,0 +1,29 @@
+# ~/.config/wifi-login/config.yaml
+default_profile: home
+
+profiles:
+  home:
+    ssids: ["MyHomeSSID", "MyHomeSSID_Guest"]
+    auth:
+      type: portal
+      login_url: "https://captive.example/login"
+      username_key: "home_username"   # lookup in keyring
+      password_key: "home_password"   # lookup in keyring
+      form:
+        username_field: "user"
+        password_field: "pass"
+        submit_selector: "button[type=submit]"
+
+  work:
+    ssids: ["ACME_WiFi"]
+    auth:
+      type: radius
+      username_key: "work_username"
+      password_key: "work_password"
+      eap: "PEAP"
+      phase2: "MSCHAPV2"
+
+  cafe:
+    ssids: ["StarCafe"]
+    auth:
+      type: none   # just a normal open/psk WiFi; maybe no additional login required
